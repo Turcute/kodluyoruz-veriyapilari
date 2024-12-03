@@ -1,0 +1,26 @@
+[22,27,16,2,18,6] -> Insertion Sort
+
+Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+ 
+->[22,27,16,2,18,6] Adım 1
+
+->[2,27,16,22,18,6] Adım 2
+
+->[2,6,16,22,18,27] Adım 3
+
+->[2,6,16,18,22,27] Adım 4 son
+
+
+Big-O gösterimini yazınız.
+
+->  O(n) Çünkü dizi sıralandı her öğe bir kez kontrol edilecek.
+
+
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?
+
+-> Average case: Aradığımız sayının ortada olmasından kaynaklı average case olacak.
+
+
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
+-> [7,3,5,8,2,9,4,15,6]
